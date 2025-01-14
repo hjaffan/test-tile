@@ -1,5 +1,15 @@
-[
-    "Billing Manager",
-    "Technical Lead"
-  ]
-
+{
+    "payload": {
+        "items" : [
+            {
+                "name": "Billing Manager"
+            },
+            {
+                "name": "Clinic Manager"
+            },
+            {
+                "name": "Nurse"
+            }
+        ]
+    }
+}
